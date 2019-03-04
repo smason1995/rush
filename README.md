@@ -6,8 +6,6 @@
 ### Setup:
     - clone repo
     - then do the following:
-    ```
-    $ cd path/to/repository/
-    $ cargo build
-    $ cargo run
-    ```
+        $ cd path/to/repository/
+        $ cargo build
+        $ cargo run
